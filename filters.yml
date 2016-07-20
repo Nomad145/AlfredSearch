@@ -1,0 +1,16 @@
+search:
+    yt:
+        name: Youtube
+        url: https://youtube.com/results?search_query=
+    g:
+        name: Google
+        url: https://google.com/#q=
+    gif:
+        name: Giphy
+        url: http://giphy.com/search/
+    so:
+        name: Stack Overflow
+        url: https://stackoverflow.com/search?q=
+    gh:
+        name: Github
+        url: https://github.com/search?utf8=✓&q=
